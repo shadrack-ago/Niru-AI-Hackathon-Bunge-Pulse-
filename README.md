@@ -272,7 +272,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 CONTACT
 
 **Project Team:** NIRU National Security Hackathon 2026 Participants  
-**Email:** contact@bungepulse.ke  
+**Email:** shadrackmeshack7@gmail.com  
 **Repository:** https://github.com/your-org/bunge-pulse
 
 ---
